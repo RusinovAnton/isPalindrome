@@ -1,0 +1,27 @@
+{
+  "name": "is-palindrome",
+  "version": "0.0.0",
+  "description": "implementation of isPalindrome()",
+  "main": "isPalindrome.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "lodash.isnumber": "^3.0.3",
+    "lodash.isstring": "^4.0.1",
+    "lodash.isundefined": "^3.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "chai": "^3.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "js",
+    "algorithms"
+  ],
+  "author": "rusinov.anton",
+  "license": "MIT"
+}
